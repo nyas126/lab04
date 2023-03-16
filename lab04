@@ -1,0 +1,26 @@
+<h2> Chicken alfredo recipe </h2>
+<body>
+  <h2 id="another">Boil the noodles, then drain them after draining place in bowl.
+    Cook chicken for 2-3 mintues and season well. Place noodles with chicken mix with alfredo suce.</h2>
+  <img
+   src= "https://th.bing.com/th/id/OIP.0xbLLuhphgZJ1kJMUAuR8gAAAA?pid=ImgDet&rs=1"  width="200px">
+  
+
+</body>
+
+</html>
+<h4>recipe <a
+             href="https://bellyfull.net/chicken-alfredo-recipe/">https://bellyfull.net/chicken-alfredo-recipe/ </a> </h4>
+             
+             #attempt {float: left;
+          background-color: pink;
+          font-family: Verdana;
+          padding: 10px;
+          color: pink;}
+#another {background-color: pink;
+          border: solid;
+          position: absolute; 
+          right: 50px; 
+          top: 50px;}
+          
+https://codepen.io/nyas14/pen/XWPYKzr
